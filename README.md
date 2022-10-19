@@ -164,7 +164,7 @@ We aim to solve the problem statement by creating a plan of action, Here are som
 
 
 __Special thanks to:__ 
-Dr. Ram Kumar (Assoicate professr)  Programming with Python | Machime Leanirng. <br>
+<br> Dr. Ram Kumar (Assoicate professr)  Programming with Python | Machime Leanirng. <br>
 Dr. Ashok (Head of school) Programming with Python | Machime Leanirng.
 
 ## License
