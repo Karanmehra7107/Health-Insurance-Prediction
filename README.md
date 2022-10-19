@@ -108,6 +108,44 @@ pd.set_option('display.max_columns', 50)
 ![image](https://user-images.githubusercontent.com/62024355/196595966-1ee03f6a-4d12-44fd-a7f2-22f177544b49.png)
 
 
+1.	Exploratory Data Analysis (EDA)
+                Letting first analyze the distribution of the target variable
+ 
+![image](https://user-images.githubusercontent.com/62024355/196596644-6b36bf65-211d-40ea-a106-eff806888093.png)
+
+2.	Data Pre-processing 
+Removal of any Duplicate rows (if any)
+ 
+![image](https://user-images.githubusercontent.com/62024355/196596667-680804d8-6025-4378-a1a4-2f4860aca101.png)
+
+3.	Data Manipulation
+                 Splitting the data intro training & testing sets
+![image](https://user-images.githubusercontent.com/62024355/196596680-929c0811-1cc2-42eb-a510-79e447514090.png)
+
+ 
+4.	Feature Selection/Extraction
+Checking the correlation
+ 
+![image](https://user-images.githubusercontent.com/62024355/196596699-1beae18e-4227-4aa7-8d9c-1c4e8fd37e34.png)
+
+5.	Calculate the VIFs to remove multi co-linearity
+![image](https://user-images.githubusercontent.com/62024355/196596732-177596a1-80e8-4497-bccb-65209feb4095.png)
+
+ 
+6.	Predictive Modelling
+ 
+![image](https://user-images.githubusercontent.com/62024355/196596769-bc28c0b3-90b0-4e72-9ebe-a593051ff7cb.png)
+![image](https://user-images.githubusercontent.com/62024355/196596790-d054011b-d567-4163-9730-b73c7678ed0e.png)
+![image](https://user-images.githubusercontent.com/62024355/196596806-6d32d854-9ce8-4e01-b3db-85a93addb9a7.png)
+![image](https://user-images.githubusercontent.com/62024355/196596817-5bce0e62-1d1c-45e5-b1ff-b5707297b68e.png)
+![image](https://user-images.githubusercontent.com/62024355/196596831-42f13a92-bbf7-47c0-8dee-caed6f10dd72.png)
+![image](https://user-images.githubusercontent.com/62024355/196596846-5327527c-2551-476e-b2dd-f80125aeae10.png)
+![image](https://user-images.githubusercontent.com/62024355/196596860-8254dfc8-e3dc-4f0b-90ba-6211b145aa18.png)
+![image](https://user-images.githubusercontent.com/62024355/196596881-2520ba77-497c-45c7-8bbe-35bdbbec650c.png)
+![image](https://user-images.githubusercontent.com/62024355/196596893-a15c9497-035a-4442-b76e-9ffe73cd4817.png)
+
+ 
+
 ## Technical asspects
 Stractegic Plan of Action:
 We aim to solve the problem statement by creating a plan of action, Here are some of the necessary steps:
