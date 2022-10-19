@@ -39,6 +39,8 @@ Objective:
 
 ## Flow chart
 
+![Flowchart](https://user-images.githubusercontent.com/62024355/196760839-2551c8ca-9ac9-414f-a7a0-182ad46beef6.png)
+
 
 ## Directory Tree
 ```
