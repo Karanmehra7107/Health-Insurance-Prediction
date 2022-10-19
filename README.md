@@ -41,6 +41,13 @@ Objective:
 
 
 ## Directory Tree
+```
+├── .ipynb
+├── readme.md
+└── requirements.txt
+
+
+```
 
 
 ## Quick start
