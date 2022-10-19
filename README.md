@@ -160,7 +160,7 @@ We aim to solve the problem statement by creating a plan of action, Here are som
 
 ## Team
 [Karan Mehra (Data modeling, model integration, Front-end)](https://karanmehra7107.github.io/My-Portfolio/index.html) 
-<br> [Menka Kalsi (Exploratory Data cleaning, Data gathering)](#) 
+<br> [Menka Kalsi (Exploratory Data cleaning, Data gathering)](https://github.com/MenkaKalsi) 
 
 
 __Special thanks to:__ 
