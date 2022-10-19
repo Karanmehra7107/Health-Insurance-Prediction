@@ -31,6 +31,11 @@ __CA-3: LPU | CAP776 D2117__
   ## About project
 A simple yet challenging project, to anticipate whether the insurance will be claimed or not. The complexity arises due to the fact that the dataset has fewer samples, & is slightly imbalanced. In this we challenge how we can overcome these obstacles & build a good predictive model to classify them!
 
+Objective: 
+•	Understand the Dataset & cleanup (if required).
+•	Build classification model to predict weather the insurance will be claimed or not.
+•	Also fine-tune the hyperparameters & compare the evaluation metrics of vaious classification algorithms.
+
 
 ## Flow chart
 
