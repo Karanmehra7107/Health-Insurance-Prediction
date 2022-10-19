@@ -42,7 +42,7 @@ Objective:
 
 ## Directory Tree
 ```
-├── .ipynb
+├── insurance-claim-prediction-top-ml-models.ipynb
 ├── readme.md
 └── requirements.txt
 
