@@ -163,7 +163,8 @@ We aim to solve the problem statement by creating a plan of action, Here are som
 <br> [Menka Kalsi (Exploratory Data cleaning, Data gathering)](#) 
 
 
-__Special thanks to:__ Dr. Ram Kumar (Assoicate professr)  Programming with Python | Machime Leanirng.
+__Special thanks to:__ 
+Dr. Ram Kumar (Assoicate professr)  Programming with Python | Machime Leanirng. <br>
 Dr. Ashok (Head of school) Programming with Python | Machime Leanirng.
 
 ## License
