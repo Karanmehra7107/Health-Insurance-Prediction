@@ -159,7 +159,11 @@ We aim to solve the problem statement by creating a plan of action, Here are som
 
 
 ## Team
+[Karan Mehra (Data modeling, model integration, Front-end)](https://karanmehra7107.github.io/My-Portfolio/index.html) 
+<br> [Menka Kalsi (Exploratory Data cleaning, Data gathering)](#) 
 
+
+__Special thanks to:__ Dr. Ram Kumar (Assoicate professr)  Programming with Python | Machime Leanirng.
 
 ## License
 [![Apache license](https://img.shields.io/badge/license-apache-blue?style=for-the-badge&logo=appveyor)](http://www.apache.org/licenses/LICENSE-2.0e)
