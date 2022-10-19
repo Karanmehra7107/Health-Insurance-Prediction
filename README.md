@@ -29,4 +29,83 @@ __CA-3: LPU | CAP776 D2117__
 ![image](https://user-images.githubusercontent.com/62024355/196232532-c5dc622a-37d1-438d-a51f-2452068f096a.png)
 
   ## About project
-A simple yet challenging project, to anticipate whether the insurance will be claimed or not. The complexity arises due to the fact that the dataset has fewer samples, & is slightly imbalanced. Can you overcome these obstacles & build a good predictive model to classify them?
+A simple yet challenging project, to anticipate whether the insurance will be claimed or not. The complexity arises due to the fact that the dataset has fewer samples, & is slightly imbalanced. In this we challenge how we can overcome these obstacles & build a good predictive model to classify them!
+
+
+## Flow chart
+
+
+## Directory Tree
+
+
+## Quick start
+**Importing libraries:** 
+```python
+import os
+import math
+import scipy
+import numpy as np
+import pandas as pd
+import seaborn as sns
+from tqdm import tqdm
+from sklearn import tree
+from scipy.stats import randint
+from scipy.stats import loguniform
+from IPython.display import display
+
+from sklearn.decomposition import PCA
+from imblearn.over_sampling import SMOTE
+from sklearn.feature_selection import RFE
+from sklearn.preprocessing import OneHotEncoder
+from sklearn.preprocessing import StandardScaler
+from sklearn.model_selection import train_test_split
+from statsmodels.stats.outliers_influence import variance_inflation_factor
+
+from sklearn.model_selection import RandomizedSearchCV
+from sklearn.model_selection import RepeatedStratifiedKFold
+
+from sklearn.svm import SVC
+from xgboost import XGBClassifier
+from sklearn.naive_bayes import BernoulliNB
+from sklearn.tree import DecisionTreeClassifier
+from sklearn.ensemble import RandomForestClassifier
+from sklearn.linear_model import LogisticRegression
+from sklearn.neighbors import KNeighborsClassifier
+from sklearn.ensemble import GradientBoostingClassifier
+
+from sklearn.linear_model import LinearRegression
+from sklearn.preprocessing import PolynomialFeatures
+
+from scikitplot.metrics import plot_roc_curve as auc_roc
+from sklearn.metrics import accuracy_score, confusion_matrix, classification_report, \
+f1_score, roc_auc_score, roc_curve, precision_score, recall_score
+
+import matplotlib.pyplot as plt
+plt.rcParams['figure.figsize'] = [10,6]
+
+import warnings 
+warnings.filterwarnings('ignore')
+
+pd.set_option('display.max_columns', 50)
+
+```
+
+## Screenshots
+
+
+## Technical asspects
+Stractegic Plan of Action:
+We aim to solve the problem statement by creating a plan of action, Here are some of the necessary steps:
+1.	Data Exploration
+2.	Exploratory Data Analysis (EDA)
+3.	Data Pre-processing
+4.	Data Manipulation
+5.	Feature Selection/Extraction
+6.	Predictive Modelling
+7.	Project Outcomes & Conclusion
+
+
+## Team
+
+
+## License
