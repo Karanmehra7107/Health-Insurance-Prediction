@@ -96,6 +96,9 @@ pd.set_option('display.max_columns', 50)
 ```
 
 ## Screenshots
+![image](https://user-images.githubusercontent.com/62024355/196595872-a0efc345-a7c0-44b2-974a-2ce0bed6c8be.png)
+![image](https://user-images.githubusercontent.com/62024355/196595920-2073e25b-485c-4934-8404-50f0ced76a6a.png)
+![image](https://user-images.githubusercontent.com/62024355/196595966-1ee03f6a-4d12-44fd-a7f2-22f177544b49.png)
 
 
 ## Technical asspects
