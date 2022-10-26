@@ -170,6 +170,20 @@ We aim to solve the problem statement by creating a plan of action, Here are som
 7.	Project Outcomes & Conclusion
 
 
+__Models with their Accuracy of Prediction__
+
+Disease | Type of Model | Accuracy
+--- | --- | ---
+Diabetes | 1. Logistic Regression | 98.25%
+Breast Cancer | 2. Decisoin Tree Classfier: | 98.25%
+Heart Disease | 3. Random Forest Classfier: | 85.25%
+Kidney Disease | 4. Naive Bayes Classfier: | 99%
+Liver Disease | 5. Support Vector Machine Classfier: | 78%
+Malaria | 6. K-Nearest Neighbours Classfier: | 96%
+Pneumonia | 7. Gradient Boosting Classfier: | 95%
+Pneumonia | 8. Extreme Gradient Boosting Classfier: | 95%
+
+
 ## Team
 [Karan Mehra (Data modeling, model integration, Front-end)](https://karanmehra7107.github.io/My-Portfolio/index.html) 
 <br> [Menka Kalsi (Exploratory Data cleaning, Data gathering)](https://github.com/MenkaKalsi) 
