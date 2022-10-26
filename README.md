@@ -175,19 +175,19 @@ __Models with their Accuracy of Prediction__
 Disease | Type of Model | Accuracy
 --- | --- | ---
 Health care insurance | 1. Logistic Regression | Accuracy = 81.2% F1 Score = 81.3%
-
+--- | --- | ------ | --- | ------ | --- | ---
 Health care insurance | 2. Decisoin Tree Classfier | Accuracy = 88.7% F1 Score = 88.7%
-
+--- | --- | ------ | --- | ---
 Health care insurance | 3. Random Forest Classfier | Accuracy = 90.60000000000001% F1 Score = 90.60000000000001%
-
+--- | --- | ---
 Health care insurance | 4. Naive Bayes Classfier | Accuracy = 68.8% F1 Score = 68.7%
-
+--- | --- | ---
 Health care insurance | 5. Support Vector Machine Classfier | Accuracy = 84.39999999999999% F1 Score = 84.39999999999999%
-
+--- | --- | ---
 Health care insurance | 6. K-Nearest Neighbours Classfier | Accuracy = 83.6% F1 Score = 83.6%
-
+--- | --- | ---
 Health care insurance | 7. Gradient Boosting Classfier | Accuracy = 92.60000000000001% F1 Score = 92.60000000000001%
-
+--- | --- | ---
 Health care insurance | 8. Extreme Gradient Boosting Classfier | Accuracy = 93.8% F1 Score = 93.7%
 
 
