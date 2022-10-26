@@ -175,7 +175,7 @@ __Models with their Accuracy of Prediction__
 Disease | Type of Model | Accuracy
 --- | --- | ---
 Health care insurance | 1. Logistic Regression | Accuracy = 81.2% F1 Score = 81.3%
-
+--- | --- | ---
 Health care insurance | 2. Decisoin Tree Classfier: | Accuracy = 88.7% F1 Score = 88.7%
 
 Health care insurance | 3. Random Forest Classfier: | Accuracy = 90.60000000000001% F1 Score = 90.60000000000001%
